@@ -47,14 +47,14 @@ I want to invest for my retirement
 I would like to invest for my retirement  
 
 * Create four slots as follows; these slots are the variables used to store the results of the conversation and are passed to the Lambda functions during validation and fulfilment. Make sure you use the same slot names in the Lambda function.   
-|SLOT NAME| SLOT TYPE |PROMPT|
-|-|-|-|
-|firstName|  AMAZON.US_FIRST_NAME| Thank you for trusting me to help, could you please give me your name|
-|age | AMAZON.NUMBER| HOW OLD ARE YOU?|
-|investmentAmount| AMAZON.NUMBER | How much do you want to invest?|  
-|riskLevel | AMAZON.Alphanumeric| What level of risk are you willing to take? (None, Low, Medium or High)|
-* Mark all the slots as `required`
-* On the `Confirmation prompt` set the following messages:
+|SLOT NAME| SLOT TYPE |PROMPT|  
+|-|-|-|  
+|firstName|  AMAZON.US_FIRST_NAME| Thank you for trusting me to help, could you please give me your name|  
+|age | AMAZON.NUMBER| HOW OLD ARE YOU?|  
+|investmentAmount| AMAZON.NUMBER | How much do you want to invest?|    
+|riskLevel | AMAZON.Alphanumeric| What level of risk are you willing to take? (None, Low, Medium or High)|  
+* Mark all the slots as `required`  
+* On the `Confirmation prompt` set the following messages:  
 >Confirm; Thanks, now I will look for the best investment portfolio for you. Okay?  
 Cancel; No Problem. I will be pleased to assist you in the future.
 
