@@ -46,7 +46,8 @@ I'm worried about my retirement
 I want to invest for my retirement  
 I would like to invest for my retirement  
 
-* Create four slots as follows; these slots are the variables used to store the results of the conversation and are passed to the Lambda functions during validation and fulfilment. Make sure you use the same slot names in the Lambda function.   
+* Create four slots as follows; these slots are the variables used to store the results of the conversation and are passed to the Lambda functions during validation and fulfilment. Make sure you use the same slot names in the Lambda function.  If the table below is not clear, then [click here](slot_image.png) for the same.  
+
 |SLOT NAME| SLOT TYPE |PROMPT|  
 |-|-|-|  
 |firstName|  AMAZON.US_FIRST_NAME| Thank you for trusting me to help, could you please give me your name|  
