@@ -91,6 +91,8 @@ The Lambda function is created to validate the inputs and also to accomplish ful
 * test the bot  
 * record the bot conversation using `CMD-SHIFT-5` on your mac. [Click here](https://drive.google.com/file/d/1NsHZ3qyrE-7JBLSY-ESgsIy4P_RsivWF/view?usp=sharing) to view the recorded conversation.
 
+[Click for more tests](https://drive.google.com/file/d/1YvrhQXXArNvCINiP8k4brxwlvfV5c1JH/view?usp=sharing)
+
 ---
 
 ## Technologies

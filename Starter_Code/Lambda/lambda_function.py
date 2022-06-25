@@ -1,5 +1,4 @@
 ### Required Libraries ###
-from curses import ACS_GEQUAL
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 
